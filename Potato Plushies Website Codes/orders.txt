@@ -1,0 +1,40 @@
+Size: small
+Material: cotton
+Color: blue
+Quantity: 1
+
+Size: small
+Material: cotton
+Color: blue
+Quantity: 1
+
+Size: small
+Material: cotton
+Color: blue
+Quantity: 1
+
+Size: small
+Material: cotton
+Color: blue
+Quantity: 1
+
+Size: small
+Material: cotton
+Color: blue
+Quantity: 1
+
+Size: crib
+Material: cotton
+Color: blue
+Quantity: 1
+
+Size: crib
+Material: cotton
+Color: brbr
+Quantity: 1
+
+Size: crib
+Material: cotton
+Color: brbr
+Quantity: 1
+
